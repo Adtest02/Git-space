@@ -16,3 +16,4 @@ hello git! master test
 hello git! hot-fix test
 Good afternoon everybody!	by DraculaAugustus
 Hello everyone!		by Adtest01
+两位，下午好！ by Adtest02
